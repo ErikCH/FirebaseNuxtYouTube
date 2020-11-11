@@ -11,16 +11,16 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/axios": "^5.12.2",
     "cookieparser": "^0.1.0",
-    "firebase": "^7.5.0",
+    "firebase": "^7.24.0",
     "js-cookie": "^2.2.1",
     "jwt-decode": "^2.2.0",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.14.7"
   },
   "devDependencies": {
     "eslint-config-prettier": "^4.1.0",
-    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-prettier": "^3.1.4",
     "prettier": "^1.16.4"
   }
 }

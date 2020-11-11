@@ -5,13 +5,14 @@ import 'firebase/database'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: ''
+  apiKey: "AIzaSyDuUYLpHKboQTjX7O1wxLj1031e8d2RXmk",
+  authDomain: "kanzlei-bf.firebaseapp.com",
+  databaseURL: "https://kanzlei-bf.firebaseio.com",
+  projectId: "kanzlei-bf",
+  storageBucket: "kanzlei-bf.appspot.com",
+  messagingSenderId: "727262562759",
+  appId: "1:727262562759:web:0eb43f4e8a12d88da731e2",
+  measurementId: "G-6TTNY63VNL"
 }
 // Initialize Firebase
 
